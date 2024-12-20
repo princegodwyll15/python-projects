@@ -1,0 +1,8 @@
+Today is Wednesday, 
+The width of the tire in mm is 644.0mm
+The aspect ratio of the tire is 443.0
+The diameter of the tire in inches is 444.0
+Converted width in litres is: 0.644litres
+Converted diameter in litres is 11.2776litres
+The total volume of the tire in litres is: 255699.018litres
+The clients phone number is 3857747385 
